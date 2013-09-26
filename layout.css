@@ -19,6 +19,13 @@
 
 .tumblr-nav {
 	background: #000000;
+	color: #FFFFFF;
+}
+.tumblr-nav li {
+	display: inline-block;
+}
+.tumblr-nav .selected {
+	color: #ffd24f;
 }
 
 /* #Page Styles
