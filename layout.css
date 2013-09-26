@@ -63,6 +63,13 @@ a {
 /* #Page Styles
 ================================================== */
 
+/* home */
+.hero {
+	background-size: cover;
+	background-repeat: no-repeat;
+	padding: 40px 0;
+}
+
 /* #Media Queries
 ================================================== */
 
