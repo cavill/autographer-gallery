@@ -26,7 +26,8 @@
 	display: inline-block;
 	width: 263px;
 	height: 30px;
-	background-image: url(http://www.autographer.com/Content/images/logo.png) no-repeat 0 0;
+	background: url(http://www.autographer.com/Content/images/logo.png) no-repeat 0 0;
+	margin: 20px 0;
 }
 #logo span {
 	display:none;
