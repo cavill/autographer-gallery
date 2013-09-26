@@ -21,6 +21,9 @@
 	background: #000000;
 	color: #FFFFFF;
 }
+nav#nav {
+	float: right;
+}
 #nav li {
 	display: inline-block;
 }
