@@ -21,17 +21,17 @@
 	background: #000000;
 	color: #FFFFFF;
 }
-.tumblr-nav nav li {
+.tumblr-nav #nav li {
 	display: inline-block;
 }
-.tumblr-nav nav li a, .tumblr-nav li a:visited, {
+.tumblr-nav #nav li a, .tumblr-nav #nav li a:visited, {
 	color: #FFFFFF;
 	text-decoration: none;
 }
-.tumblr-nav nav li a:hover {
+.tumblr-nav #nav li a:hover {
 	color: #c0c0c0;
 }
-.tumblr-nav nav li a.selected {
+.tumblr-nav #nav li a.selected {
 	color: #ffd24f;
 }
 
