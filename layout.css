@@ -16,7 +16,9 @@
 
 /* #Site Styles
 ================================================== */
-
+body {
+	-webkit-font-smoothing: none!important;
+}
 a {
 	transition: all 0.2s ease-out;
 }
