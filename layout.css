@@ -24,11 +24,14 @@
 .tumblr-nav li {
 	display: inline-block;
 }
-.tumblr-nav a, .tumblr-nav a:visited, {
+.tumblr-nav li a, .tumblr-nav li a:visited, {
 	color: #FFFFFF;
 	text-decoration: none;
 }
-.tumblr-nav .selected {
+.tumblr-nav li a:hover {
+	color: #c0c0c0;
+}
+.tumblr-nav li a .selected {
 	color: #ffd24f;
 }
 
