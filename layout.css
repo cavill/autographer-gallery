@@ -17,7 +17,7 @@
 /* #Site Styles
 ================================================== */
 body {
-	-webkit-font-smoothing: none!important;
+	-webkit-font-smoothing: subpixel-antialiased!important;
 }
 a {
 	transition: all 0.2s ease-out;
