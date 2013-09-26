@@ -21,7 +21,11 @@
 	background: #000000;
 	color: #FFFFFF;
 }
-nav#nav {
+#logo {
+	float: left;
+	display: inline-block;
+}
+#nav {
 	float: right;
 }
 #nav li {
