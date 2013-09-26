@@ -17,6 +17,10 @@
 /* #Site Styles
 ================================================== */
 
+a {
+	transition: all 0.2s ease-out;
+}
+
 .tumblr-nav {
 	background: #000000;
 	color: #FFFFFF;
@@ -34,13 +38,18 @@
 }
 #nav {
 	float: right;
+	margin: 24px 0 0;
 }
 #nav li {
 	display: inline-block;
+	font-weight: bold;
+	font-size: 12px;
+	margin-left: 20px;
 }
 #nav li a:link, #nav li a:visited {
 	color: #FFFFFF;
 	text-decoration: none;
+	padding: 2px;
 }
 #nav li a:hover {
 	color: #c0c0c0;
