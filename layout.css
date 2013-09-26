@@ -38,7 +38,7 @@
 #nav li {
 	display: inline-block;
 }
-#nav li a, #nav li a:visited, {
+#nav li a:link, #nav li a:visited {
 	color: #FFFFFF;
 	text-decoration: none;
 }
