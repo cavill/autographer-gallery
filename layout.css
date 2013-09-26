@@ -24,6 +24,12 @@
 #logo {
 	float: left;
 	display: inline-block;
+	width: 263px;
+	height: 30px;
+	background-image: url(http://www.autographer.com/Content/images/logo.png) no-repeat 0 0;
+}
+#logo span {
+	display:none;
 }
 #nav {
 	float: right;
