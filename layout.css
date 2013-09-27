@@ -72,14 +72,13 @@ img {
 	padding: 40px 0;
 }
 .grid {
-	width: 220px;
-	padding-bottom: 50%;
+	width: 120px;
 	overflow: hidden;
-	height: 0;
+	height: auto;
 }
 .grid:first-child, .grid:nth-child(3n) {
 	outline: 1px solid red;
-	/* width: 300px; */
+	/*width: 300px; */
 }
 .grid:first-child {
 	outline-color: blue;
