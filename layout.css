@@ -79,7 +79,7 @@ img {
 }
 .grid:first-child, .grid:nth-child(3n) {
 	outline: 1px solid red;
-	width: 300px;
+	/* width: 300px; */
 }
 .grid:first-child {
 	outline-color: blue;
